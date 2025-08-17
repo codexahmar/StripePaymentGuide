@@ -1,16 +1,41 @@
-# stripe_payment
+# StripePay Flutter 💳
 
-A new Flutter project.
+**StripePay Flutter** is a simple and clean **Flutter project demonstrating Stripe Payment integration**.  
+The app showcases **secure payment processing**, modern UI, and well-structured code for easy learning and adaptation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Stripe Payment Integration** – Accept payments securely with Stripe  
+- **Clean Architecture** – Well-structured code for maintainability  
+- **Product Data Model** – Display products with details and prices  
+- **Checkout Flow** – Smooth and intuitive payment process  
+- **Reusable Widgets** – Modular components for easy customization  
+- **Portfolio-Ready** – Demonstrates professional coding practices  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Framework**: Flutter  
+- **Payment Gateway**: Stripe  
+- **State Management**: Provider / GetX (as per your implementation)  
+- **UI**: Flutter Material & Custom Widgets  
+
+---
+
+## 🚀 Getting Started
+
+### 1. Prerequisites
+- Flutter SDK installed  
+- Stripe account  
+- Android Studio / VS Code  
+
+### 2. Installation
+```bash
+# Clone the repository
+git clone https://github.com/codexahmar/StripePaymentGuide
+
+# Install dependencies
+flutter pub get
